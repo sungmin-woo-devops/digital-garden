@@ -125,4 +125,9 @@ The easiest way to build your own digital garden based on this template is to re
 
 Go forth, have fun, and learn new something every day! ✌️
 
+Single Braket
+[aaa.md]
+
+Double Braket
+[[aaa.md]]
 [['01. 메시지 보내고 받기.md']]
