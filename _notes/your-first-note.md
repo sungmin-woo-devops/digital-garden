@@ -129,5 +129,5 @@ Single Braket
 [aaa.md]
 
 Double Braket
-[[aaa.md]]
-[['01. 메시지 보내고 받기.md']]
+[[./aaa.md]]
+[[./'01. 메시지 보내고 받기.md']]
